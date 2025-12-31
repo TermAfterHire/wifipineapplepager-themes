@@ -109,7 +109,7 @@ Themes in this repository are the **source assets** used directly by the device 
 
 ## Installing Pager Themes
 
-To install a new theme, simply copy it to `/lib/pager/themes/`.
+To install a new theme, simply copy it to `/root/themes/`, or `/mmc/root/themes/`.
 
 ## Contributing Themes
 
