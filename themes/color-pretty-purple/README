@@ -1,7 +1,7 @@
-# Tiitle: ColorUI Theme
-# Description: Easily edit the theme.json color palette to change the theme colors.
+# Tiitle: ColorUI Theme pretty purple
+# Description: This is a full purple theme with boot animation and backgrounds
 # Author: RootJunky
-# Version 2
+# Version 3
 
 ## Open theme.json and scroll down to the color_palette section. Here you will be able to edit most the the theme text and image colors. Then just push the theme.json file over to the pager and restart the server from developer menu.
 
