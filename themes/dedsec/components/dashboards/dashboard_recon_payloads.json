@@ -26,7 +26,8 @@
             "x": 140,
             "y": 60,
             "layers": [
-              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" }
+              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" },
+              { "image_path": "assets/folder.png", "x": 32, "y": 0, "recolor_palette": "red" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title_selected" },
@@ -49,7 +50,8 @@
             "x": 140,
             "y": 87,
             "layers": [
-              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" }
+              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" },
+              { "image_path": "assets/folder.png", "x": 32, "y": 0, "recolor_palette": "red" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title_selected" },
@@ -72,7 +74,8 @@
             "x": 140,
             "y": 118,
             "layers": [
-              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" }
+              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" },
+              { "image_path": "assets/folder.png", "x": 32, "y": 0, "recolor_palette": "red" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0,  "use_template": "recon_payload_title_selected" },
@@ -95,7 +98,8 @@
             "x": 140,
             "y": 146,
             "layers": [
-              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" }
+              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" },
+              { "image_path": "assets/folder.png", "x": 32, "y": 0, "recolor_palette": "red" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0,  "use_template": "recon_payload_title_selected" },
@@ -118,7 +122,8 @@
             "x": 140,
             "y": 175,
             "layers": [
-              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" }
+              { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "use_template": "recon_payload_title" },
+              { "image_path": "assets/folder.png", "x": 32, "y": 0, "recolor_palette": "red" }
             ],
             "selected_layers": [
               { "variable_name": "$_LIST_ITEM", "x": 64, "y": 0, "string_template": { "text_color_palette":  "red" } },
