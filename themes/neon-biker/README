@@ -1,39 +1,7 @@
-#Neon Biker Theme
+Editing these files here within /lib/pager/themes/ will have no effect. Do not place new themes here.
 
-An 80s synthwave/retrowave theme for the WiFi Pineapple Pager featuring neon colors, grid landscapes, and a cyberpunk aesthetic.
+If you would like to modify the theme, create a new one by copying this to /root/themes with a new directory name
 
-## Preview
+cp -r /lib/pager/themes/wargames /root/themes/mycooltheme
 
-![Dashboard](assets/dashboard/wargames_bg.png)
-
-## Features
-
-- Hot pink and cyan neon color palette
-- Synthwave grid backgrounds on all screens
-- Custom neon-styled battery icons
-- Retro boot animation with loading bar
-- Cyberpunk aesthetic throughout UI
-
-## Color Palette
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Hot Pink | #FF1493 | Primary accent |
-| Cyan | #00FFFF | Secondary accent |
-| Purple | #9400D3 | Tertiary accent |
-| Dark BG | #0A0A14 | Background |
-
-## Installation
-
-1. Copy theme folder to `/root/themes/neon-biker` on your Pager
-2. Go to Settings → Display → Theme
-3. Select `neon-biker`
-
-## Author
-
-Community Contribution
-
-## License
-
-Provided under the Hak5 theme license. See repository root for details.
-EOF
+Find more information at docs.hak5.org
