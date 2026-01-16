@@ -187,15 +187,15 @@
                         "image_path": "assets/confirmation_dialog/generic_confirmation_button_selected.png"
                     }
                 ],
-                "target": "function_save_mgmt_ap",
-                "button_map": {
-                    "a": "select",
-                    "b": "back",
-                    "up": "previous",
-                    "down": "goto ssid",
-                    "left": "goto clear",
-                    "right": "goto clear"
-                }
+                "target": "function_save_evil_wpa",
+				  "button_map": {
+					"a": "select",
+					"b": "quit_wizard",
+					"up": "previous",
+					"down": "goto ssid",
+					"left": "goto clear",
+					"right": "goto clear"
+				  }
             },
             {
                 "id": "clear",
@@ -208,15 +208,15 @@
                         "image_path": "assets/confirmation_dialog/generic_confirmation_button_selected.png"
                     }
                 ],
-                "target": "function_clear_mgmt_ap",
-                "button_map": {
-                    "a": "select",
-                    "b": "back",
-                    "up": "goto pass",
-                    "down": "next",
-                    "left": "goto save",
-                    "right": "goto save"
-                }
+				  "target": "function_clear_evil_wpa",
+				  "button_map": {
+					"a": "select",
+					"b": "quit_wizard",
+					"up": "goto pass",
+					"down": "next",
+					"left": "goto save",
+					"right": "goto save"
+				  }
             }
         ]
     }
