@@ -155,19 +155,19 @@
           "variable": "$_2.4Ghz_ENABLED"
         },
         {
-          "id": "greentooth",
+          "id": "bluetooth",
           "x":170,
           "y":155,
           "layers": [
-            { "variable_name":  "$_greenTOOTH_ENABLED", "use_template": "toggle" },
-            { "text": "greentooth", "x": 40, "text_color_palette": "green" }
+            { "variable_name":  "$_bluetooth_ENABLED", "use_template": "toggle" },
+            { "text": "bluetooth", "x": 40, "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "variable_name":  "$_greenTOOTH_ENABLED", "use_template": "toggle" },
-            { "text": "greentooth", "x": 40, "text_color_palette": "white" }
+            { "variable_name":  "$_bluetooth_ENABLED", "use_template": "toggle" },
+            { "text": "bluetooth", "x": 40, "text_color_palette": "white" }
           ],
           "target": "inline_toggle",
-          "variable": "$_greenTOOTH_ENABLED"
+          "variable": "$_bluetooth_ENABLED"
         }
       ]
     }
