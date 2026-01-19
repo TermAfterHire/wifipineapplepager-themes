@@ -1,5 +1,5 @@
 {
-  "author": "Hak5",
+  "author": "Mackovision",
   "theme_version": "1.0",
   "theme_framework_version": "0.5",
 
@@ -191,7 +191,8 @@
     "dark_teal":{ "r":20, "g":90, "b":85 },
     "navy":{ "r":15, "g":35, "b":75 },
     "light_yellow":{ "r":250, "g":225, "b":120 },
-    "soft_white":{ "r":230, "g":230, "b":220 }
+    "soft_white":{ "r":230, "g":230, "b":220 },
+    "hot_pink":{ "r":241, "g":55, "b":253 }
   },
 
   "_unused" : {
