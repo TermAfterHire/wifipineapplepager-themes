@@ -10,7 +10,12 @@
         { "image_path": "assets/spinner/spinner1.png","x": 140, "y": 40 },
         { "image_path": "assets/spinner/spinner2.png","x": 140, "y": 40 },
         { "image_path": "assets/spinner/spinner3.png","x": 140, "y": 40 },
-        { "image_path": "assets/spinner/spinner4.png","x": 140, "y": 40 }
+        { "image_path": "assets/spinner/spinner4.png","x": 140, "y": 40 },
+        { "image_path": "assets/spinner/spinner5.png","x": 140, "y": 40 },
+        { "image_path": "assets/spinner/spinner6.png","x": 140, "y": 40 },
+        { "image_path": "assets/spinner/spinner7.png","x": 140, "y": 40 },
+        { "image_path": "assets/spinner/spinner8.png","x": 140, "y": 40 },
+        { "image_path": "assets/spinner/spinner9.png","x": 140, "y": 40 }
       ]
     }, {
       "id": "spinner_text",
