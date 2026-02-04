@@ -1,6 +1,6 @@
 # Ninety Eight
 - Author: Cribbit
-- Version: 1.0.3
+- Version: 1.0.7
 
 ## Change Log
 | Version | Changes                         |
@@ -8,6 +8,7 @@
 | 1.0.1   | Initial release                 |
 | 1.0.2   | Finish recon                    |
 | 1.0.3   | Payload page number alignment   |
+| 1.0.7   | Update for firmware 1.0.7       |
 
 ## Installation
 
